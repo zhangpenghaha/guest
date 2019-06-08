@@ -1,0 +1,2034 @@
+[2017-04-10 16:26:56,227] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2017-04-10 16:26:56,227] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2017-04-10 16:26:56,403] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3478
+[2017-04-10 16:26:56,403] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3478
+[2017-04-10 16:27:19,726] [INFO] basehttp : "GET /?username=111 HTTP/1.1" 200 1471
+[2017-04-10 16:27:19,726] [INFO] basehttp : "GET /?username=111 HTTP/1.1" 200 1471
+[2017-04-10 16:27:29,089] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2017-04-10 16:27:29,089] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2017-04-10 16:27:29,139] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 6491
+[2017-04-10 16:27:29,139] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 6491
+[2019-05-16 19:05:49,151] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2019-05-16 19:05:49,151] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2019-05-16 19:05:49,399] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-16 19:05:49,399] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-16 19:05:51,739] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-16 19:05:51,739] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-16 19:06:00,169] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-16 19:06:00,169] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-16 19:06:00,187] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:06:00,187] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:06:02,949] [INFO] basehttp : "GET /sign_index/1/ HTTP/1.1" 200 2782
+[2019-05-16 19:06:02,949] [INFO] basehttp : "GET /sign_index/1/ HTTP/1.1" 200 2782
+[2019-05-16 19:14:01,765] [INFO] basehttp : "DELETE /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:14:01,765] [INFO] basehttp : "DELETE /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:15:04,217] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:15:04,217] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:15:58,342] [INFO] basehttp : "POST /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:15:58,342] [INFO] basehttp : "POST /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:16:35,004] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2019-05-16 19:16:35,004] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2019-05-16 19:16:37,830] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-16 19:16:37,830] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-16 19:16:39,797] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-16 19:16:39,797] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-16 19:16:47,934] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-16 19:16:47,934] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-16 19:16:47,946] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:16:47,946] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:16:52,455] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:16:52,455] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:17:48,818] [INFO] basehttp : "POST /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:17:48,818] [INFO] basehttp : "POST /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:18:18,117] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:18:18,117] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:19:46,440] [INFO] basehttp : "POST /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:19:46,440] [INFO] basehttp : "POST /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 19:20:34,208] [ERROR] exception : Internal Server Error: /api/add_event
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 63, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 101, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/add_event/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2019-05-16 19:20:34,208] [ERROR] exception : Internal Server Error: /api/add_event
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 63, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 101, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/add_event/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2019-05-16 19:20:34,284] [ERROR] basehttp : "POST /api/add_event HTTP/1.1" 500 64924
+[2019-05-16 19:20:34,284] [ERROR] basehttp : "POST /api/add_event HTTP/1.1" 500 64924
+[2019-05-16 19:20:40,362] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:20:40,362] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:22:07,460] [ERROR] exception : Internal Server Error: /api/add_event
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 63, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 101, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/add_event/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2019-05-16 19:22:07,460] [ERROR] exception : Internal Server Error: /api/add_event
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 63, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "F:\python\lib\site-packages\django\middleware\common.py", line 101, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/add_event/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2019-05-16 19:22:07,528] [ERROR] basehttp : "POST /api/add_event HTTP/1.1" 500 64918
+[2019-05-16 19:22:07,528] [ERROR] basehttp : "POST /api/add_event HTTP/1.1" 500 64918
+[2019-05-16 19:22:12,864] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:22:12,864] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3952
+[2019-05-16 19:26:55,124] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:26:55,124] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:07,357] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:07,357] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:29,257] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:29,257] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:51,257] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:51,257] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:58,115] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:28:58,115] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:29:05,642] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:29:05,642] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:29:14,290] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 19:29:14,290] [INFO] basehttp : "POST /api/add_event/ HTTP/1.1" 200 47
+[2019-05-16 20:25:57,279] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:25:57,279] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:25:57,292] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:25:57,292] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:28:18,211] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:28:18,211] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:28:18,219] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:28:18,219] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:29:35,643] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 5250
+[2019-05-16 20:29:35,643] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 5250
+[2019-05-16 20:29:35,754] [INFO] basehttp : "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2019-05-16 20:29:35,756] [INFO] basehttp : "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2019-05-16 20:29:35,754] [INFO] basehttp : "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2019-05-16 20:29:35,756] [INFO] basehttp : "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2019-05-16 20:29:35,825] [INFO] basehttp : "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[2019-05-16 20:29:35,825] [INFO] basehttp : "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[2019-05-16 20:29:35,843] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[2019-05-16 20:29:35,844] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[2019-05-16 20:29:35,843] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[2019-05-16 20:29:35,844] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[2019-05-16 20:29:35,866] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[2019-05-16 20:29:35,866] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[2019-05-16 20:29:35,878] [INFO] basehttp : "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2019-05-16 20:29:35,878] [INFO] basehttp : "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2019-05-16 20:29:35,890] [INFO] basehttp : "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2019-05-16 20:29:35,890] [INFO] basehttp : "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:11,945] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 5221
+[2019-05-16 20:31:16,575] [INFO] basehttp : "GET /admin/sign/event/add/ HTTP/1.1" 200 5998
+[2019-05-16 20:31:16,616] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-16 20:31:16,679] [INFO] basehttp : "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[2019-05-16 20:31:16,682] [INFO] basehttp : "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,687] [INFO] basehttp : "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,710] [INFO] basehttp : "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,723] [INFO] basehttp : "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,727] [INFO] basehttp : "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,735] [INFO] basehttp : "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,748] [INFO] basehttp : "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,748] [INFO] basehttp : "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,760] [INFO] basehttp : "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[2019-05-16 20:31:16,781] [INFO] basehttp : "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,781] [INFO] basehttp : "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,791] [INFO] basehttp : "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,799] [INFO] basehttp : "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,925] [INFO] basehttp : "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:16,965] [INFO] basehttp : "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:33,783] [INFO] basehttp : "POST /admin/sign/event/add/ HTTP/1.1" 302 0
+[2019-05-16 20:31:33,848] [INFO] basehttp : "GET /admin/sign/event/ HTTP/1.1" 200 6489
+[2019-05-16 20:31:33,880] [INFO] basehttp : "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[2019-05-16 20:31:33,889] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-16 20:31:33,890] [INFO] basehttp : "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:33,896] [INFO] basehttp : "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:33,979] [INFO] basehttp : "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[2019-05-16 20:32:09,906] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:32:09,917] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:32:21,302] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 5511
+[2019-05-16 20:32:26,728] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 4358
+[2019-05-16 20:32:52,763] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:32:52,782] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:33:34,622] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:33:34,630] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:33:50,256] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:33:50,266] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:39:30,912] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:39:30,923] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:43:24,839] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:43:24,850] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:58:01,392] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:58:01,403] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:58:45,539] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-16 20:58:45,549] [INFO] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 200 53
+[2019-05-16 20:58:45,557] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-16 20:58:45,564] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-16 20:58:45,570] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:58:45,581] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:58:52,012] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-16 20:58:52,021] [INFO] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 200 53
+[2019-05-16 20:58:52,028] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-16 20:58:52,038] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-16 20:58:52,050] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:58:52,058] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 21:03:35,150] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 21:03:35,161] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 21:05:06,504] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 21:05:06,512] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 21:08:10,805] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-16 21:08:10,816] [INFO] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 200 53
+[2019-05-16 21:08:10,823] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-16 21:08:10,829] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-16 21:08:10,834] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 21:08:10,844] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:31:11,945] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 5221
+[2019-05-16 20:31:16,575] [INFO] basehttp : "GET /admin/sign/event/add/ HTTP/1.1" 200 5998
+[2019-05-16 20:31:16,616] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-16 20:31:16,679] [INFO] basehttp : "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[2019-05-16 20:31:16,682] [INFO] basehttp : "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,687] [INFO] basehttp : "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,710] [INFO] basehttp : "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,723] [INFO] basehttp : "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,727] [INFO] basehttp : "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,735] [INFO] basehttp : "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,748] [INFO] basehttp : "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,748] [INFO] basehttp : "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,760] [INFO] basehttp : "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[2019-05-16 20:31:16,781] [INFO] basehttp : "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,781] [INFO] basehttp : "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,791] [INFO] basehttp : "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,799] [INFO] basehttp : "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2019-05-16 20:31:16,925] [INFO] basehttp : "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:16,965] [INFO] basehttp : "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:33,848] [INFO] basehttp : "GET /admin/sign/event/ HTTP/1.1" 200 6489
+[2019-05-16 20:31:33,880] [INFO] basehttp : "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[2019-05-16 20:31:33,889] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-16 20:31:33,890] [INFO] basehttp : "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:33,896] [INFO] basehttp : "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[2019-05-16 20:31:33,979] [INFO] basehttp : "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[2019-05-16 20:32:09,906] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:32:09,917] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:32:21,302] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 5511
+[2019-05-16 20:32:26,728] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 4358
+[2019-05-16 20:32:52,763] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:32:52,782] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:33:34,622] [INFO] basehttp : "GET /api/get_event_list?eid=1 HTTP/1.1" 301 0
+[2019-05-16 20:33:34,630] [INFO] basehttp : "GET /api/get_event_list/?eid=1 HTTP/1.1" 200 206
+[2019-05-16 20:33:50,256] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:33:50,266] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:39:30,912] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:39:30,923] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:43:24,839] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:43:24,850] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:58:01,392] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:58:01,403] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:58:45,539] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-16 20:58:45,549] [INFO] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 200 53
+[2019-05-16 20:58:45,557] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-16 20:58:45,564] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-16 20:58:45,570] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:58:45,581] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:58:52,012] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-16 20:58:52,021] [INFO] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 200 53
+[2019-05-16 20:58:52,028] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-16 20:58:52,038] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-16 20:58:52,050] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 20:58:52,058] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 21:03:35,150] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 21:03:35,161] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 21:05:06,504] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 21:05:06,512] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 21:08:10,805] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-16 21:08:10,816] [INFO] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 200 53
+[2019-05-16 21:08:10,823] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-16 21:08:10,829] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-16 21:08:10,834] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-16 21:08:10,844] [INFO] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 200 191
+[2019-05-16 20:31:33,783] [INFO] basehttp : "POST /admin/sign/event/add/ HTTP/1.1" 302 0
+[2019-05-19 19:30:58,554] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-19 19:30:58,554] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-19 19:30:58,942] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-19 19:30:58,942] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-19 19:31:00,356] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-19 19:31:00,356] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-19 19:31:09,040] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-19 19:31:09,040] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-19 19:31:09,199] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 4358
+[2019-05-19 19:31:09,199] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 4358
+[2019-05-19 19:48:05,693] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-19 19:48:05,693] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-19 19:48:10,874] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-19 19:48:10,874] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-19 19:48:11,058] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-19 19:48:11,058] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-19 19:48:25,382] [INFO] basehttp : "GET /guest_manage/ HTTP/1.1" 200 3970
+[2019-05-19 19:48:25,382] [INFO] basehttp : "GET /guest_manage/ HTTP/1.1" 200 3970
+[2019-05-19 19:48:27,297] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-19 19:48:27,297] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-19 19:48:28,030] [INFO] basehttp : "GET /guest_manage/ HTTP/1.1" 200 3970
+[2019-05-19 19:48:28,030] [INFO] basehttp : "GET /guest_manage/ HTTP/1.1" 200 3970
+[2019-05-19 19:48:37,261] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-19 19:48:37,261] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-19 20:07:47,814] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-19 20:07:47,814] [INFO] basehttp : "GET /event_manage/ HTTP/1.1" 200 3950
+[2019-05-23 20:03:12,486] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:03:12,486] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:03:12,993] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-23 20:03:12,993] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-23 20:03:14,307] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:03:14,307] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:11,726] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:11,726] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:13,767] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:13,767] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:18,204] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:18,204] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:28,437] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:28,437] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:36,354] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:36,354] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:51,294] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:04:51,294] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:05:06,908] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:05:06,908] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:05:15,612] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:05:15,612] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:05:15,801] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+[2019-05-23 20:05:15,801] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+[2019-05-23 20:05:15,846] [INFO] basehttp : "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[2019-05-23 20:05:15,846] [INFO] basehttp : "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[2019-05-23 20:05:15,864] [INFO] basehttp : "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2019-05-23 20:05:15,864] [INFO] basehttp : "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2019-05-23 20:05:15,884] [INFO] basehttp : "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[2019-05-23 20:05:15,884] [INFO] basehttp : "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[2019-05-23 20:05:15,911] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[2019-05-23 20:05:15,911] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[2019-05-23 20:05:15,927] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[2019-05-23 20:05:15,927] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[2019-05-23 20:05:17,840] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:05:17,840] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:05:17,870] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[2019-05-23 20:05:17,870] [INFO] basehttp : "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[2019-05-23 20:05:23,460] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:05:23,460] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:05:27,995] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:05:27,995] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:05:29,656] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:05:29,656] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1784
+[2019-05-23 20:06:57,070] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:06:57,070] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:07:14,064] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:14,064] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:19,112] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:19,112] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:26,499] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:26,499] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:29,023] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:29,023] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:33,876] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:33,876] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:38,852] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:38,852] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:49,044] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:07:49,044] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:11:17,169] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:11:22,551] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:11:22,594] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+[2019-05-23 20:11:34,695] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2019-05-23 20:11:34,735] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 3758
+[2019-05-23 20:11:34,769] [INFO] basehttp : "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2019-05-23 20:11:34,794] [INFO] basehttp : "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2019-05-23 20:11:34,817] [INFO] basehttp : "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2019-05-23 20:11:37,878] [INFO] basehttp : "GET /admin/auth/user/add/ HTTP/1.1" 200 5488
+[2019-05-23 20:11:37,913] [INFO] basehttp : "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[2019-05-23 20:11:37,973] [INFO] basehttp : "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2019-05-23 20:11:37,978] [INFO] basehttp : "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2019-05-23 20:11:37,991] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:11:38,009] [INFO] basehttp : "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,044] [INFO] basehttp : "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,049] [INFO] basehttp : "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,056] [INFO] basehttp : "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[2019-05-23 20:11:38,061] [INFO] basehttp : "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,072] [INFO] basehttp : "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,097] [INFO] basehttp : "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,121] [INFO] basehttp : "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,128] [INFO] basehttp : "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[2019-05-23 20:11:47,979] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5727
+[2019-05-23 20:11:48,037] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:04,710] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5656
+[2019-05-23 20:12:04,770] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:20,950] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5759
+[2019-05-23 20:12:20,990] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:40,435] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5690
+[2019-05-23 20:12:40,479] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:53,465] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5656
+[2019-05-23 20:12:53,502] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:13:08,666] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5717
+[2019-05-23 20:13:08,705] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:13:19,850] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+[2019-05-23 20:13:19,993] [INFO] basehttp : "GET /admin/auth/user/2/change/ HTTP/1.1" 200 13899
+[2019-05-23 20:13:20,128] [INFO] basehttp : "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,129] [INFO] basehttp : "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,146] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:13:20,149] [INFO] basehttp : "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,151] [INFO] basehttp : "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,248] [INFO] basehttp : "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,401] [INFO] basehttp : "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,418] [INFO] basehttp : "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,419] [INFO] basehttp : "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,421] [INFO] basehttp : "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,439] [INFO] basehttp : "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,439] [INFO] basehttp : "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:30,747] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4076
+[2019-05-23 20:13:38,460] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:13:39,963] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:14:02,322] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:14:03,655] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:14:10,869] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:14:14,068] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:14:14,126] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1794
+[2019-05-23 20:14:16,136] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1929
+[2019-05-23 20:14:24,459] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1926
+[2019-05-23 20:14:26,038] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2019-05-23 20:14:26,092] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4076
+[2019-05-23 20:14:32,082] [INFO] basehttp : "GET /admin/auth/user/2/change/ HTTP/1.1" 200 13724
+[2019-05-23 20:14:32,202] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:14:50,291] [INFO] basehttp : "POST /admin/auth/user/2/change/ HTTP/1.1" 200 13910
+[2019-05-23 20:14:50,339] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:14:59,155] [INFO] basehttp : "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[2019-05-23 20:14:59,241] [INFO] basehttp : "GET /admin/auth/user/ HTTP/1.1" 200 7069
+[2019-05-23 20:14:59,267] [INFO] basehttp : "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[2019-05-23 20:14:59,277] [INFO] basehttp : "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+[2019-05-23 20:14:59,293] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:14:59,336] [INFO] basehttp : "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[2019-05-23 20:14:59,341] [INFO] basehttp : "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+[2019-05-23 20:15:12,842] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4362
+[2019-05-23 20:11:17,169] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:11:22,551] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:11:22,594] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+[2019-05-23 20:11:34,735] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 3758
+[2019-05-23 20:11:34,769] [INFO] basehttp : "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2019-05-23 20:11:34,794] [INFO] basehttp : "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2019-05-23 20:11:34,817] [INFO] basehttp : "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2019-05-23 20:11:37,878] [INFO] basehttp : "GET /admin/auth/user/add/ HTTP/1.1" 200 5488
+[2019-05-23 20:11:37,973] [INFO] basehttp : "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2019-05-23 20:11:37,978] [INFO] basehttp : "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2019-05-23 20:11:37,991] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:11:38,009] [INFO] basehttp : "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,044] [INFO] basehttp : "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,049] [INFO] basehttp : "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,061] [INFO] basehttp : "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,072] [INFO] basehttp : "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,097] [INFO] basehttp : "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,121] [INFO] basehttp : "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2019-05-23 20:11:38,128] [INFO] basehttp : "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[2019-05-23 20:11:47,979] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5727
+[2019-05-23 20:11:48,037] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:04,710] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5656
+[2019-05-23 20:12:04,770] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:20,950] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5759
+[2019-05-23 20:12:20,990] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:40,435] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5690
+[2019-05-23 20:12:40,479] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:12:53,465] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5656
+[2019-05-23 20:12:53,502] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:13:08,666] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 200 5717
+[2019-05-23 20:13:08,705] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:13:19,850] [INFO] basehttp : "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+[2019-05-23 20:13:19,993] [INFO] basehttp : "GET /admin/auth/user/2/change/ HTTP/1.1" 200 13899
+[2019-05-23 20:13:20,128] [INFO] basehttp : "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,129] [INFO] basehttp : "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,146] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:13:20,149] [INFO] basehttp : "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,151] [INFO] basehttp : "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+[2019-05-23 20:13:20,248] [INFO] basehttp : "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,401] [INFO] basehttp : "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,418] [INFO] basehttp : "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,419] [INFO] basehttp : "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,421] [INFO] basehttp : "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,439] [INFO] basehttp : "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:20,439] [INFO] basehttp : "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[2019-05-23 20:13:30,747] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4076
+[2019-05-23 20:13:38,460] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:13:39,963] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:13:39,983] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:14:02,322] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:14:03,655] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:14:03,671] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:14:10,869] [INFO] basehttp : "GET / HTTP/1.1" 200 1471
+[2019-05-23 20:14:14,068] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:14:14,126] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1794
+[2019-05-23 20:14:16,136] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1929
+[2019-05-23 20:14:24,459] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1926
+[2019-05-23 20:14:26,038] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2019-05-23 20:14:26,092] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4076
+[2019-05-23 20:14:32,082] [INFO] basehttp : "GET /admin/auth/user/2/change/ HTTP/1.1" 200 13724
+[2019-05-23 20:14:32,202] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:14:50,291] [INFO] basehttp : "POST /admin/auth/user/2/change/ HTTP/1.1" 200 13910
+[2019-05-23 20:14:50,339] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:14:59,155] [INFO] basehttp : "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+[2019-05-23 20:14:59,241] [INFO] basehttp : "GET /admin/auth/user/ HTTP/1.1" 200 7069
+[2019-05-23 20:14:59,267] [INFO] basehttp : "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[2019-05-23 20:14:59,277] [INFO] basehttp : "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+[2019-05-23 20:14:59,293] [INFO] basehttp : "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+[2019-05-23 20:14:59,336] [INFO] basehttp : "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[2019-05-23 20:14:59,341] [INFO] basehttp : "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+[2019-05-23 20:15:12,842] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4362
+[2019-05-23 20:15:27,968] [ERROR] exception : Internal Server Error: /admin/sign/event/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1662, in changelist_view
+    selection_note=_('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:11:34,695] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2019-05-23 20:11:37,913] [INFO] basehttp : "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[2019-05-23 20:11:38,056] [INFO] basehttp : "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[2019-05-23 20:13:39,983] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:14:03,671] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:15:27,968] [ERROR] exception : Internal Server Error: /admin/sign/event/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1662, in changelist_view
+    selection_note=_('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:18:19,510] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262348
+[2019-05-23 20:18:19,510] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262348
+[2019-05-23 20:18:19,574] [ERROR] basehttp : "GET /admin/sign/event/ HTTP/1.1" 500 219150
+[2019-05-23 20:18:19,574] [ERROR] basehttp : "GET /admin/sign/event/ HTTP/1.1" 500 219150
+[2019-05-23 20:18:19,728] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 59
+[2019-05-23 20:18:19,734] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262349
+[2019-05-23 20:18:19,734] [ERROR] basehttp : "GET /admin/sign/event/ HTTP/1.1" 500 59
+[2019-05-23 20:18:19,728] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 59
+[2019-05-23 20:18:19,734] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262349
+[2019-05-23 20:18:19,734] [ERROR] basehttp : "GET /admin/sign/event/ HTTP/1.1" 500 59
+[2019-05-23 20:18:19,764] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 59
+[2019-05-23 20:18:19,764] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 59
+[2019-05-23 20:18:52,386] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-23 20:18:52,386] [WARNING] basehttp : "GET /favicon.ico HTTP/1.1" 404 3504
+[2019-05-23 20:18:53,274] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:18:53,274] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:18:53,302] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:18:53,302] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:18:53,758] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262339
+[2019-05-23 20:18:53,758] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262339
+[2019-05-23 20:19:06,782] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:19:06,782] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:19:19,566] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:19:19,566] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 302 0
+[2019-05-23 20:19:19,591] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:19:19,591] [ERROR] exception : Internal Server Error: /event_manage/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "E:\guest-master\sign\views.py", line 52, in event_manage
+    return render(request, "event_manage.html", {"user": username,"events":event_list})
+  File "F:\python\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\python\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "F:\python\lib\site-packages\django\template\backends\django.py", line 66, in render
+    return self.template.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 207, in render
+    return self._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "F:\python\lib\site-packages\django\template\base.py", line 957, in render_annotated
+    return self.render(context)
+  File "F:\python\lib\site-packages\django\template\defaulttags.py", line 173, in render
+    len_values = len(values)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:19:19,871] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262360
+[2019-05-23 20:19:19,871] [ERROR] basehttp : "GET /event_manage/ HTTP/1.1" 500 262360
+[2019-05-23 20:19:33,263] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2019-05-23 20:19:33,263] [INFO] basehttp : "GET /index/ HTTP/1.1" 200 1471
+[2019-05-23 20:19:35,753] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:19:35,753] [INFO] basehttp : "POST /login_action/ HTTP/1.1" 200 1498
+[2019-05-23 20:19:50,858] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:19:50,858] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:19:50,926] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1794
+[2019-05-23 20:19:50,926] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1794
+[2019-05-23 20:19:51,415] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:19:51,415] [INFO] basehttp : "GET /admin/ HTTP/1.1" 302 0
+[2019-05-23 20:19:51,478] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1794
+[2019-05-23 20:19:51,478] [INFO] basehttp : "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1794
+[2019-05-23 20:19:56,891] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1926
+[2019-05-23 20:19:56,891] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1926
+[2019-05-23 20:20:02,226] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1926
+[2019-05-23 20:20:02,226] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1926
+[2019-05-23 20:20:03,782] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2019-05-23 20:20:03,782] [INFO] basehttp : "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2019-05-23 20:20:03,823] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4362
+[2019-05-23 20:20:03,823] [INFO] basehttp : "GET /admin/ HTTP/1.1" 200 4362
+[2019-05-23 20:20:11,609] [ERROR] exception : Internal Server Error: /admin/sign/event/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1662, in changelist_view
+    selection_note=_('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:20:11,609] [ERROR] exception : Internal Server Error: /admin/sign/event/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "F:\python\lib\site-packages\django\utils\decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "F:\python\lib\site-packages\django\contrib\admin\options.py", line 1662, in changelist_view
+    selection_note=_('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:20:11,819] [ERROR] basehttp : "GET /admin/sign/event/ HTTP/1.1" 500 219150
+[2019-05-23 20:20:11,819] [ERROR] basehttp : "GET /admin/sign/event/ HTTP/1.1" 500 219150
+[2019-05-23 20:37:58,640] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-23 20:37:58,640] [INFO] basehttp : "GET /api/get_event_list?eid=901 HTTP/1.1" 301 0
+[2019-05-23 20:37:58,669] [ERROR] exception : Internal Server Error: /api/get_event_list/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\guest-master\sign\views_if.py", line 95, in get_event_list
+    result = Event.objects.get(id=eid)
+  File "F:\python\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 373, in get
+    num = len(clone)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:37:58,669] [ERROR] exception : Internal Server Error: /api/get_event_list/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\guest-master\sign\views_if.py", line 95, in get_event_list
+    result = Event.objects.get(id=eid)
+  File "F:\python\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 373, in get
+    num = len(clone)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:37:58,959] [ERROR] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 500 191411
+[2019-05-23 20:37:58,959] [ERROR] basehttp : "GET /api/get_event_list/?eid=901 HTTP/1.1" 500 191411
+[2019-05-23 20:37:58,972] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-23 20:37:58,972] [INFO] basehttp : "GET /api/get_event_list?eid= HTTP/1.1" 301 0
+[2019-05-23 20:37:58,978] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-23 20:37:58,978] [INFO] basehttp : "GET /api/get_event_list/?eid= HTTP/1.1" 200 47
+[2019-05-23 20:37:58,984] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-23 20:37:58,984] [INFO] basehttp : "GET /api/get_event_list?eid=3 HTTP/1.1" 301 0
+[2019-05-23 20:37:59,001] [ERROR] exception : Internal Server Error: /api/get_event_list/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\guest-master\sign\views_if.py", line 95, in get_event_list
+    result = Event.objects.get(id=eid)
+  File "F:\python\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 373, in get
+    num = len(clone)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:37:59,001] [ERROR] exception : Internal Server Error: /api/get_event_list/
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\python\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "F:\python\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\guest-master\sign\views_if.py", line 95, in get_event_list
+    result = Event.objects.get(id=eid)
+  File "F:\python\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 373, in get
+    num = len(clone)
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 232, in __len__
+    self._fetch_all()
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 1102, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "F:\python\lib\site-packages\django\db\models\query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "F:\python\lib\site-packages\django\db\models\sql\compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "F:\python\lib\site-packages\django\utils\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "F:\python\lib\site-packages\django\db\backends\utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "F:\python\lib\site-packages\django\db\backends\mysql\base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 166, in execute
+    result = self._query(query)
+  File "F:\python\lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1057, in _read_query_result
+    result.read()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "F:\python\lib\site-packages\pymysql\connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "F:\python\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.InternalError: (1054, "Unknown column 'sign_event.name' in 'field list'")
+[2019-05-23 20:37:59,186] [ERROR] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 500 191337
+[2019-05-23 20:37:59,186] [ERROR] basehttp : "GET /api/get_event_list/?eid=3 HTTP/1.1" 500 191337
